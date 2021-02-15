@@ -1,0 +1,5 @@
+{
+    "require":{
+        "phpmailer/phpmailer.php": "dev-master"
+    }
+}

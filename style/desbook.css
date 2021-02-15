@@ -1,0 +1,35 @@
+col-lg-6 col-md-8{
+    overflow:hidden;
+}
+.card-img-top{
+  border: 6px solid black;
+  height: 290px;
+  width: 200px;
+justify-content: space-around;
+}
+.titre{
+  color:#6001FF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  font-size:10px;
+}
+.card{
+  color:#6001FF;
+  font-family:arial;
+  text-align:center;
+  display:inline;
+}
+.stylspan{
+display: flex;
+align-items: flex-start;
+font-weight: bold ;
+color:#6001ff;
+padding:5px 15px;
+
+}
+
+  .col-lg-6 col-md-4{
+    margin-bottom: 40px;
+    display:flex;
+    align-items: flex-end;
+  }
